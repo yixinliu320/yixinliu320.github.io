@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://yixinliu320.github.io/sitemap.xml
