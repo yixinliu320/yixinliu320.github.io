@@ -5,12 +5,20 @@
     <link>http://yixin-liu.com/publication-type/1/</link>
       <atom:link href="http://yixin-liu.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Yixin Liu 2021</copyright><lastBuildDate>Sat, 07 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Yixin Liu 2021</copyright><lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://yixin-liu.com/images/icon_hubae68d20731730ac4962324e66260a68_25606_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>http://yixin-liu.com/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Micro Foundations of Network Formation: Experimental Evidence from American Municipal Governments</title>
+      <link>http://yixin-liu.com/publication/working-paper/networkexp/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://yixin-liu.com/publication/working-paper/networkexp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Turnover, Interlocal Collaboration and Organizational Performance: Testing Mediator and Moderator Effects</title>
