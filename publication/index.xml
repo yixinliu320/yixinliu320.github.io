@@ -1,70 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research | YIXIN LIU 劉亦心</title>
+    <title>Publications | YIXIN LIU 劉亦心</title>
     <link>http://yixin-liu.com/publication/</link>
       <atom:link href="http://yixin-liu.com/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Research</description>
+    <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Yixin Liu 2021</copyright><lastBuildDate>Mon, 16 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://yixin-liu.com/images/icon_hubae68d20731730ac4962324e66260a68_25606_512x512_fill_lanczos_center_2.png</url>
-      <title>Research</title>
+      <title>Publications</title>
       <link>http://yixin-liu.com/publication/</link>
     </image>
     
     <item>
       <title>De-stereotyping Public Performance Evaluation</title>
-      <link>http://yixin-liu.com/publication/publication/lx2/</link>
+      <link>http://yixin-liu.com/publication/lx2/</link>
       <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://yixin-liu.com/publication/publication/lx2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Public Trust and Collaborative Governance: Evidence from Two Priming Experiments</title>
-      <link>http://yixin-liu.com/publication/under-review/trust/</link>
-      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://yixin-liu.com/publication/under-review/trust/</guid>
+      <guid>http://yixin-liu.com/publication/lx2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Effectiveness of Network Administrative Organizations in Governing Inter-jurisdictional Natural Resources</title>
-      <link>http://yixin-liu.com/publication/publication/lt/</link>
+      <link>http://yixin-liu.com/publication/lt/</link>
       <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://yixin-liu.com/publication/publication/lt/</guid>
+      <guid>http://yixin-liu.com/publication/lt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Does Mislabeling COVID-19 Elicit the Perception of Threat and Reduce Blame?</title>
-      <link>http://yixin-liu.com/publication/publication/lx1/</link>
+      <link>http://yixin-liu.com/publication/lx1/</link>
       <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://yixin-liu.com/publication/publication/lx1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How and When Democratic Values Matter: Challenging the Effectiveness Centric Framework in Program Evaluation</title>
-      <link>http://yixin-liu.com/publication/under-review/llb/</link>
-      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://yixin-liu.com/publication/under-review/llb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Micro Foundations of Network Formation: Experimental Evidence from American Municipal Governments</title>
-      <link>http://yixin-liu.com/publication/working-paper/networkexp/</link>
-      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://yixin-liu.com/publication/working-paper/networkexp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Turnover, Interlocal Collaboration and Organizational Performance: Testing Mediator and Moderator Effects</title>
-      <link>http://yixin-liu.com/publication/working-paper/hl/</link>
-      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://yixin-liu.com/publication/working-paper/hl/</guid>
+      <guid>http://yixin-liu.com/publication/lx1/</guid>
       <description></description>
     </item>
     

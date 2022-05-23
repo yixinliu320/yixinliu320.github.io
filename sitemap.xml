@@ -23,12 +23,12 @@
   </url>
   
   <url>
-    <loc>http://yixin-liu.com/publication/publication/lx2/</loc>
+    <loc>http://yixin-liu.com/publication/lx2/</loc>
     <lastmod>2022-05-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://yixin-liu.com/publication/under-review/trust/</loc>
+    <loc>http://yixin-liu.com/working/trust/</loc>
     <lastmod>2022-05-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,6 +53,11 @@
   </url>
   
   <url>
+    <loc>http://yixin-liu.com/working/</loc>
+    <lastmod>2022-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://yixin-liu.com/author/yixin-liu/</loc>
     <lastmod>2022-05-16T00:00:00+00:00</lastmod>
   </url>
@@ -68,32 +73,17 @@
   </url>
   
   <url>
-    <loc>http://yixin-liu.com/publication/publication/lt/</loc>
+    <loc>http://yixin-liu.com/publication/lt/</loc>
     <lastmod>2022-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://yixin-liu.com/publication/publication/lx1/</loc>
+    <loc>http://yixin-liu.com/publication/lx1/</loc>
     <lastmod>2021-08-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://yixin-liu.com/author/frances-berry/</loc>
-    <lastmod>2021-07-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://yixin-liu.com/author/heewon-lee/</loc>
-    <lastmod>2021-07-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://yixin-liu.com/publication/under-review/llb/</loc>
-    <lastmod>2021-07-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://yixin-liu.com/publication/working-paper/networkexp/</loc>
+    <loc>http://yixin-liu.com/working/networkexp/</loc>
     <lastmod>2021-04-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,8 +103,23 @@
   </url>
   
   <url>
-    <loc>http://yixin-liu.com/publication/working-paper/hl/</loc>
+    <loc>http://yixin-liu.com/working/hl/</loc>
     <lastmod>2020-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yixin-liu.com/author/frances-berry/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yixin-liu.com/author/heewon-lee/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yixin-liu.com/working/llb/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
