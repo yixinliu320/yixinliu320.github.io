@@ -5,12 +5,20 @@
     <link>http://yixin-liu.com/publication/</link>
       <atom:link href="http://yixin-liu.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Yixin Liu 2021</copyright><lastBuildDate>Mon, 16 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Yixin Liu 2021</copyright><lastBuildDate>Tue, 12 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://yixin-liu.com/images/icon_hubae68d20731730ac4962324e66260a68_25606_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>http://yixin-liu.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Public Trust and Collaborative Governance: An Instrumental Variable Approach</title>
+      <link>http://yixin-liu.com/publication/trust/</link>
+      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://yixin-liu.com/publication/trust/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>De-stereotyping Public Performance Evaluation</title>
