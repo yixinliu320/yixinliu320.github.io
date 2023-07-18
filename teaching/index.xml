@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Courses on Yixin Liu</title>
+    <link>http://yixin-liu.com/teaching/</link>
+    <description>Recent content in Courses on Yixin Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://yixin-liu.com/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Public Administration in American Society</title>
+      <link>http://yixin-liu.com/c1/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://yixin-liu.com/c1/</guid>
+      <description>This course, taught at Florida State University from Fall 2021 to Spring 2022, introduced students to the fundamental theories and practices of public administration. Topics covered included social equity, public ethics, organizational theory, politics and management, public finance, performance management, among others.</description>
+    </item>
+    
+    <item>
+      <title>Guest Lectures</title>
+      <link>http://yixin-liu.com/c2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://yixin-liu.com/c2/</guid>
+      <description>This page gathers information about the guest lectures I have provided for both master&amp;rsquo;s and doctoral level graduate students.</description>
+    </item>
+    
+  </channel>
+</rss>

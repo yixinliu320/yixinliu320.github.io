@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>performance management on Yixin Liu</title>
+    <link>http://yixin-liu.com/tags/performance-management/</link>
+    <description>Recent content in performance management on Yixin Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://yixin-liu.com/tags/performance-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How and when democratic values matter: Challenging the effectiveness-centric framework in program evaluation</title>
+      <link>http://yixin-liu.com/publication/liuleeberryppmr2023/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://yixin-liu.com/publication/liuleeberryppmr2023/</guid>
+      <description>Using a conjoint experiment, this research compare the effects of effectiveness and democratic values in predicting public program evaluation, conditioned on citizens’ trust in government.</description>
+    </item>
+    
+    <item>
+      <title>De-stereotyping public performance evaluation</title>
+      <link>http://yixin-liu.com/publication/liuxuipmj2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://yixin-liu.com/publication/liuxuipmj2022/</guid>
+      <description>This paper employs a series of experiments to examine the relationship between performance information and the evaluation mode, suggesting that presenting information jointly (joint evaluation), rather than separately (separate evaluation), may assist people in avoiding stereotyping and focusing on actual performance.</description>
+    </item>
+    
+    <item>
+      <title>Does mislabeling COVID-19 elicit the perception of threat and reduce blame?</title>
+      <link>http://yixin-liu.com/publication/xuliujbpa2021/</link>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://yixin-liu.com/publication/xuliujbpa2021/</guid>
+      <description>This paper employs a list experiment to examine whether mislabeling COVID-19 as the &amp;lsquo;Chinese Virus&amp;rsquo; has incited opposition towards Chinese immigrants and reduced public blame attributed to the federal government.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>natural experiment on Yixin Liu</title>
+    <link>http://yixin-liu.com/tags/natural-experiment/</link>
+    <description>Recent content in natural experiment on Yixin Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 17 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://yixin-liu.com/tags/natural-experiment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All hands on deck: The role of collaborative platforms and lead organizations in achieving environmental goals</title>
+      <link>http://yixin-liu.com/working/liuleeunpublished/</link>
+      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://yixin-liu.com/working/liuleeunpublished/</guid>
+      <description>This paper combines the difference-in-differences (DiD) methods and content analysis to examine the effectiveness of collaborative platforms in supporting local collaborations for natural resource management.</description>
+    </item>
+    
+    <item>
+      <title>The effectiveness of network administrative organizations in governing inter-jurisdictional natural resources</title>
+      <link>http://yixin-liu.com/publication/liutanpa2022/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://yixin-liu.com/publication/liutanpa2022/</guid>
+      <description>This paper uses the synthetic control method, incorporating monthly water quality data from 14 river monitoring sites in two neighboring cities, to examine the effectiveness of the Network Administrative Organization (NAO) model in reducing water pollution.</description>
+    </item>
+    
+  </channel>
+</rss>
