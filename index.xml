@@ -8,15 +8,6 @@
     <language>en</language>
     <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://yixin-liu.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Beyond collaboration: The role of participant diversity in watershed governance</title>
-      <link>http://yixin-liu.com/council/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://yixin-liu.com/council/</guid>
-      <description>This paper combines the difference-in-differences design and mediation analysis to examine the impacts of nonprofit watershed councils and the participant diversity on water quality.</description>
-    </item>
-    
-    <item>
       <title>Environmental Policy</title>
       <link>http://yixin-liu.com/envpolicy/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
@@ -32,6 +23,15 @@
       
       <guid>http://yixin-liu.com/budget/</guid>
       <description>This course introduces public budgeting and finance. It emphasizes the budgetary process as both a political and management tool, essential for the operation and funding of public programs. Public managers will gain the knowledge and skills to understand key principles of budgeting and its role in expressing societal values.</description>
+    </item>
+    
+    <item>
+      <title>Mediating collaborations: The role of participant diversity in watershed governance</title>
+      <link>http://yixin-liu.com/council/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://yixin-liu.com/council/</guid>
+      <description>This paper combines the difference-in-differences design and mediation analysis to examine the impacts of nonprofit watershed councils and the participant diversity on water quality.</description>
     </item>
     
     <item>

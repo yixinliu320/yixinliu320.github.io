@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://yixin-liu.com/council/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://yixin-liu.com/tags/collaborative-governance/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -21,6 +18,9 @@
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://yixin-liu.com/tags/local-government/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://yixin-liu.com/council/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://yixin-liu.com/tags/natural-experiment/</loc>
