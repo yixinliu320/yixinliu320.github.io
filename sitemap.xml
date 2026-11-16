@@ -35,17 +35,23 @@
     <loc>http://yixin-liu.com/envpolicy/</loc>
     <lastmod>2026-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://yixin-liu.com/c1/</loc>
-    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://yixin-liu.com/orwater/</loc>
-    <lastmod>2025-08-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://yixin-liu.com/tags/natural-experiment/</loc>
-    <lastmod>2025-08-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://yixin-liu.com/publication/</loc>
-    <lastmod>2025-08-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://yixin-liu.com/ai/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://yixin-liu.com/tags/survey-experiment/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://yixin-liu.com/c1/</loc>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://yixin-liu.com/reciprocity/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
@@ -60,9 +66,6 @@
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://yixin-liu.com/exploitation/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://yixin-liu.com/tags/survey-experiment/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://yixin-liu.com/localexp/</loc>
